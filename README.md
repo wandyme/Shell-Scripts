@@ -1,4 +1,4 @@
-# Shell-Scripts
+# Shell Scripts
 Shell Scripts Collection
 
 *This is a collection of my shell scripts.*
