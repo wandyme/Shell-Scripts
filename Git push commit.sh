@@ -3,5 +3,5 @@ cd /Users/wandy/OneDrive/T-Lab/[My\ Projects\&Data]/LabVIEW\ VIs/Fs\ Lab\ VIs/D&
 git status
 git add .
 git commit -m "update revision history"
-git log
+#git log
 git push -u origin master
