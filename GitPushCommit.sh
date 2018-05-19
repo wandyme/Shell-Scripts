@@ -3,9 +3,9 @@
 
 git status
 git add .
-git commit -m "test add description" -m "description is added"
+git commit -m "title..." -m "description..."
 #git log
-#git push -u origin master
+git push -u origin master
 
 
 #./Git\ push\ commit.sh
