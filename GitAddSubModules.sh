@@ -4,3 +4,5 @@ git status
 git add --all
 git commit -m "Add submodules"
 git push
+# git submodule update --remote
+# git submodule update 
