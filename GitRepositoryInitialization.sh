@@ -1,4 +1,4 @@
-cd "/Users/wandy/OneDrive/T-Lab/[My Projects&Data]/LabVIEW VIs/Fs Lab VIs/[LabVIEW Drivers]" #the local repository directory
+cd "/Users/wandy/OneDrive/T-Lab/[My Projects&Data]/LabVIEW VIs/Fs Lab VIs/[Fs Lab LabVIEW Drivers]" #the local repository directory
 git init
 git status
 git add .
